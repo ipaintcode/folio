@@ -1,0 +1,280 @@
+{
+  "site": {
+    "name": "iPAINTCODE",
+    "version": "1.0.0"
+  },
+  "work": [
+    {
+      "href": "https://codepen.io/ipaintcode/pen/vadqGq",
+      "heading": "Pure CSS Nintendo Switch Controller",
+      "subHeading": "Picked Pen on CodePen.io",
+      "image": "img/codepenio.png",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "https://www.thinkful.com/mentors/mark-learst/",
+      "heading": "Thinkful Mentor",
+      "subHeading": "Front End, ReactJS and NodeJS",
+      "image": "img/thinkful.gif",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "http://pixelhive.com/",
+      "heading": "Pixelhive",
+      "subHeading": "Design + Development. Instagram &amp; Behance API as micro CMS",
+      "image": "img/pixelhive.png",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "https://dribbble.com/shots/4074704-Headphone-Hi-Fi-Product-UI-Design",
+      "heading": "Woo Audio Headphone Hi-Fi",
+      "subHeading": "UI Design Mockup",
+      "image": "img/wooaudio_v2.jpg",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "http://ipaintcode.com/client/signalreturn/",
+      "heading": "Signal Return Press",
+      "subHeading": "",
+      "image": "img/signalreturn.jpg",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "http://ipaintcode.github.io/2014fiesta_rwd_proto/",
+      "heading": "Ford Fiesta RWD Prototype",
+      "subHeading": "RWD + Color Picker Prototype",
+      "image": "img/fiesta.jpg",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "http://revolution.ipaintcode.com/nameplate.php",
+      "heading": "Mustang RWD Prototype",
+      "subHeading": "Prototype",
+      "image": "img/rwdmustang.jpg",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "http://www.codeplusdesign.com/projectsuperduty/",
+      "heading": "Super Duty RWD Prototype",
+      "subHeading": "Super Duty RWD Prototype",
+      "image": "img/f150.jpg",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "http://demon.ipaintcode.com/",
+      "heading": "DODGE DEMON",
+      "subHeading": "Front-End Development",
+      "image": "img/demon.jpg",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "http://microbrew.io/",
+      "heading": "Microbrew<",
+      "subHeading": "sup> js</sup> | M**",
+      "image": "img/microbrew.jpg",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "http://dev.ipaintcode.com/waterfallnav/",
+      "heading": "Waterfall Navigation",
+      "subHeading": "Prototype / Experiment",
+      "image": "img/waterfallnav.jpg",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "http://ipaintcode.com/client/smz",
+      "heading": "Organic Proximity Chart",
+      "subHeading": "SVG",
+      "image": "img/mcdc.png",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "http://teamdetroit.ipaintcode.com/",
+      "heading": "Team Detroit",
+      "subHeading": "",
+      "image": "img/teamdetroit.jpg",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "https://dribbble.com/shots/3304071-The-Hydro-Store",
+      "heading": "The Hydro Store",
+      "subHeading": "Branding | Icon Design",
+      "image": "img/the-hydro-store-icon.png",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "https://dribbble.com/shots/3304079-Alternative-VS-Code-macOS-Icon",
+      "heading": "VS Code App Icon",
+      "subHeading": "macOS inspired version",
+      "image": "img/vscode.png",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "http://dev.ipaintcode.com/process/",
+      "heading": "P.O.Vision Process",
+      "subHeading": "Prototype",
+      "image": "img/process.jpg",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "http://ipaintcode.com/client/ch3mical/",
+      "heading": "Ch3mical",
+      "subHeading": "",
+      "image": "img/ch3mical.jpg",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "ttp://ipaintcode.com/client/dbb/",
+      "heading": "Brand Story",
+      "subHeading": "Prototype",
+      "image": "img/brandstory.jpg",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "http://ipaintcode.com/client/lovedetroit/",
+      "heading": "Love, Detroit 2011",
+      "subHeading": "",
+      "image": "img/lovedetroit_2.jpg",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "http://ipaintcode.com/client/lovedetroit-2010/",
+      "heading": "Love, Detroit 2010",
+      "subHeading": "",
+      "image": "img/loverdetroit_1.jpg",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "http://ipaintcode.com/client/lovedetroit-2010/",
+      "heading": "MOTOR Selectline",
+      "subHeading": "Part of a UI Dev team building Selectline. Check out some of the video's",
+      "image": "img/selectline.png",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "http://ipaintcode.com/client/ff2/",
+      "heading": "Ford Accordian Nav",
+      "subHeading": "Prototype",
+      "image": "img/accordian.jpg",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "http://dev.ipaintcode.com/rbiconfdet/",
+      "heading": "Revitalization &amp; Business Initiative",
+      "subHeading": "",
+      "image": "img/rb.jpg",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "http://ipaintcode.com/client/fontface/",
+      "heading": "Font Documentation",
+      "subHeading": "Ford.com",
+      "image": "img/font.jpg",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "http://dev.ipaintcode.com/2013mustang/",
+      "heading": "Mustang Customizer Interim Page",
+      "subHeading": "",
+      "image": "img/awards.jpg",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "ttp://dev.ipaintcode.com/mpg/",
+      "heading": "MPG Calculator Widget",
+      "subHeading": "Prototype",
+      "image": "img/mpg.jpg",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "http://ipaintcode.com/cobra/",
+      "heading": "Ford Gallery Prototype Carousel",
+      "subHeading": "Prototype",
+      "image": "img/carousel.jpg",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "http://dev.ipaintcode.com/mpg/",
+      "heading": "MPG Calculator Widget",
+      "subHeading": "Prototype",
+      "image": "img/mpg.jpg",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "http://ipaintcode.com/client/f150Percent",
+      "heading": "Ford F150 Dynamic JS % Marquee",
+      "subHeading": "Prototype",
+      "image": "img/f150-percentage.png",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "http://dev.ipaintcode.com/stuartoneil/",
+      "heading": "Stuart Oneil Portfolio",
+      "subHeading": "",
+      "image": "img/stu.jpg",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "http://ipaintcode.com/client/dundeegolfclub/",
+      "heading": "Dundee Golf Header",
+      "subHeading": "",
+      "image": "img/golf.jpg",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "http://ipaintcode.com/client/mercedeshouse/",
+      "heading": "Mercedes House NY",
+      "subHeading": "",
+      "image": "img/mh.jpg",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "http://gmpp.dyno.ipaintcode.com/",
+      "heading": "GMPP Engine Dyno",
+      "subHeading": "(flash)",
+      "image": "img/dyno.jpg",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    },
+    {
+      "href": "http://ipaintcode.com/codeplusdesign/",
+      "heading": "Old School Work",
+      "subHeading": "(flash)",
+      "image": "img/flash.jpg",
+      "role": "User Interface Developer",
+      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+    }
+  ]
+}
