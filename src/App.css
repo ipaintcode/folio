@@ -78,7 +78,7 @@ blockquote {
 }
 
 .hero-container::after {
-  content: "v0.2.15-beta";
+  content: "v0.3.0-beta";
   position: absolute;
   right: 0;
   bottom: 3px;
@@ -280,7 +280,7 @@ footer .version {
 /*content: "v0.2.15-beta";
 position: absolute;
 right: 0;
-bottom: 3px;
+bottom: 3px;for
 font-size: .85em;
 
 opacity: .7;*/

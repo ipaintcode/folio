@@ -3,7 +3,9 @@ import axios from 'axios'
 // import logo from './logo.svg'
 import './App.css'
 
+import Header from './components/Header/Header'
 import Grid from './components/Grid/Grid'
+import Footer from './components/Footer/Footer'
 
 const App = () => {
   const [folio, setFolio] = useState()
@@ -31,7 +33,9 @@ const App = () => {
         <blockquote><strong>“All you need to paint is a few tools, a little instruction, and a vision in your mind.”</strong><cite> &mdash; Bob Ross</cite>
         </blockquote>
       </div>
+      <Header />
       <Grid tiles={folio} />
+      <Footer />
     </div>
   )
 }
