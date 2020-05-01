@@ -78,7 +78,7 @@ blockquote {
 }
 
 .hero-container::after {
-  content: "v0.3.0-beta";
+  content: "v0.4.0-beta";
   position: absolute;
   right: 0;
   bottom: 3px;
@@ -174,7 +174,7 @@ blockquote {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
-  margin-top: 1.9em;
+  margin-top: 1em;
   margin-bottom: 1.9em;
 }
 
@@ -329,4 +329,43 @@ opacity: .7;*/
     opacity: 1;
     transform: translateY(0px);
   }
+}
+
+/* Waka Graph */
+.waka-graph {
+  width: 100%;
+  margin: 0;
+  margin-top: 1em;
+  padding-bottom: 2em;
+  display: inline-block;
+}
+
+.waka-graph .h3 {
+  margin-bottom: .5rem;
+  margin-top: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: .5em;
+  font-weight: 300;
+  opacity: 1;
+  font-size: 1.4em;
+  transform: translateY(-4px);
+}
+
+.waka-graph span {
+  text-transform: uppercase;
+  font-size: 1rem;
+  transform: translateY(3px);
+  font-weight: bold;
+  color: #edeef4;
+  background: #172631;
+  padding: .25rem .5rem;
+  border-radius: .15rem;
+  float: right;
+  opacity: .7
+}
+
+.grid-title {
+  padding: 0;
+  padding-top: 1rem;
 }

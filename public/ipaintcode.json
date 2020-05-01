@@ -221,14 +221,6 @@
       "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
     },
     {
-      "href": "http://dev.ipaintcode.com/mpg/",
-      "heading": "MPG Calculator Widget",
-      "subHeading": "Prototype",
-      "image": "img/mpg.jpg",
-      "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
-    },
-    {
       "href": "http://ipaintcode.com/client/f150Percent",
       "heading": "Ford F150 Dynamic JS % Marquee",
       "subHeading": "Prototype",

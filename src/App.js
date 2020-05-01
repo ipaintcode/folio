@@ -6,6 +6,7 @@ import './App.css'
 import Header from './components/Header/Header'
 import Grid from './components/Grid/Grid'
 import Footer from './components/Footer/Footer'
+import WakaGraph from './components/Waka/WakaGraph'
 
 const App = () => {
   const [folio, setFolio] = useState()
@@ -34,6 +35,7 @@ const App = () => {
         </blockquote>
       </div>
       <Header />
+      <WakaGraph />
       <Grid tiles={folio} />
       <Footer />
     </div>
