@@ -8,7 +8,7 @@ body {
   padding: 0 30px;
   font-family: 'Open Sans', sans-serif;
   color: #5E6278;
-  max-width: 53em;
+  max-width: 65em;
   opacity: 0;
   animation: 1s ease-out 1s forwards fadeInBody;
   background-color: #EDEEF4;
@@ -78,7 +78,7 @@ blockquote {
 }
 
 .hero-container::after {
-  content: "v0.4.0-beta";
+  content: "v0.5.0-beta";
   position: absolute;
   right: 0;
   bottom: 3px;
@@ -140,7 +140,7 @@ blockquote {
 .social li a:hover::before {
   content: "";
   position: absolute;
-  top: -.98em;
+  top: -12px;
   left: 50%;
   padding: .35em;
   background-color: white;
@@ -174,6 +174,7 @@ blockquote {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
+  justify-content: center;
   margin-top: 1em;
   margin-bottom: 1.9em;
 }
@@ -208,7 +209,7 @@ blockquote {
   font-weight: 700;
   font-size: 1.2em;
   opacity: 0;
-  transition: all ease-out .3s;
+  transition: all ease-out .5s;
   padding: 0 .5em;
   background-color: rgba(94, 98, 120, .95);
 }
@@ -228,20 +229,61 @@ blockquote {
 
 .folio h3 {
   position: absolute;
-  top: 40%;
+  top: 46%;
   transform: translateY(-50%);
   left: 0;
   right: 0;
   padding: 1em;
   font-size: 1.1em;
   display: block;
+  text-transform: uppercase;
+}
+.folio div {
+  margin-top: -10px;
+  position: relative;
+}
+.folio section { 
+  margin-top: 1.25em;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
 }
 .folio span {
-  opacity: .8;
   font-size: .7em;
-  display: block;
-  margin-top: .5em;
-  font-weight: 400;
+  font-weight: 600;
+  text-transform: capitalize;
+  display: inline-block;
+  background: rgba(255, 255, 255, .7);
+  border-radius: .5em;
+  padding: .25em .55em .35em;
+  max-width: 62%;
+  margin-top: 90px;
+  top: -20px;
+  opacity: 0;
+  position: relative;
+  color: rgb(94, 98, 120);
+}
+.folio span {
+  margin-right: .4em;
+  margin-left: .4em;
+  margin-bottom: .8em;
+}
+.folio span:last-child {
+  margin-right: 0;
+}
+.folio div,
+.folio span {
+  opacity: 0;
+  transform: scale(.65);
+  transition: all .3s ease-out;
+}
+.folio a:hover div,
+.folio a:hover span {
+  opacity: 1;
+  transform: scale(1);
+  margin-top: 0px;
 }
 
 .p-container.hr_top-bottom {
@@ -287,13 +329,13 @@ opacity: .7;*/
 
 /*Basic Responsive Media Queries*/
 
-@media (min-width: 60em) {
+@media (min-width: 65em) {
   .folio li:nth-child(3n) {
     margin-right: 0;
   }
 }
 
-@media (max-width: 60em) {
+@media (max-width: 65em) {
   .folio li {
     width: calc(98.5% / 2);
   }
@@ -305,7 +347,7 @@ opacity: .7;*/
   }
 }
 
-@media (max-width: 40em) {
+@media (max-width: 42em) {
   .folio, .folio li {
     width: 100%;
   }
