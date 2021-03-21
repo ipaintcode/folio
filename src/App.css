@@ -140,7 +140,7 @@ blockquote {
 .social li a:hover::before {
   content: "";
   position: absolute;
-  top: -12px;
+  top: -16px;
   left: 50%;
   padding: .35em;
   background-color: white;
