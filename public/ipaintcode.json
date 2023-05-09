@@ -1,8 +1,55 @@
 {
   "site": {
     "name": "iPAINTCODE",
-    "version": "1.1.0"
+    "version": "0.6.1"
   },
+  "about": {
+    "name": "Mark Learst",
+    "title": "Remote Senior Design Technologist",
+    "bio": [
+      "As a Senior Design Technologist, I seamlessly blend the roles of UI Designer and UI Developer, thriving at the intersection of aesthetics, technology, and user experience. My professional toolkit, refined through years of hands-on experience, encompasses CSS, JavaScript, ReactJS, Figma, Design Tokens, UI Motion, and a deep understanding of Design Systems and Component Libraries.",
+      "I excel at transforming designs into functional, user-friendly interfaces with a meticulous eye for detail and creativity. In this dynamic and rapidly evolving field, I am unwavering in my commitment to staying at the forefront, constantly refining my skills and exploring emerging technologies to deliver intuitive, engaging, and impactful user interfaces."
+    ],
+    "quote": "“All you need to paint is a few tools, a little instruction, and a vision in your mind.”",
+    "author": "Bob Ross"
+  },
+  "social": [
+    {
+      "name": "twitter",
+      "href": "https://twitter.com/ipaintcode",
+      "img": "img/twitter.svg"
+    },
+    {
+      "name": "codepen",
+      "href": "https://codepen.io/ipaintcode/",
+      "img": "img/codepen.svg"
+    },
+    {
+      "name": "dribbble",
+      "href": "https://dribbble.com/ipaintcode",
+      "img": "img/dribbble.svg"
+    },
+    {
+      "name": "github",
+      "href": "https://github.com/ipaintcode",
+      "img": "img/github.svg"
+    },
+    {
+      "name": "linkedin",
+      "href": "https://www.linkedin.com/in/marklearst/",
+      "img": "img/linkedin.svg"
+    },
+    {
+      "name": "resume",
+      "href": "http://ipaintcode.com/resume/mark_learst_resume.pdf",
+      "img": "img/resume.svg"
+    },
+    {
+      "name": "email",
+      "link": "mailto:learst@me.com",
+      "img": "img/quill.svg"
+    }
+  ],
   "work": [
     {
       "href": "https://codepen.io/ipaintcode/pen/vadqGq",
@@ -10,7 +57,12 @@
       "subHeading": "CODEPEN, Picked Pen, CSS3",
       "image": "img/codepenio.png",
       "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+      "tags": [
+        "React",
+        "Design",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "href": "https://dribbble.com/shots/4074704-Headphone-Hi-Fi-Product-UI-Design",
@@ -18,7 +70,12 @@
       "subHeading": "UI Design, Mockup, Wireframe",
       "image": "img/wooaudio_v2.jpg",
       "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+      "tags": [
+        "React",
+        "Design",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "href": "http://pixelhive.com/",
@@ -26,31 +83,51 @@
       "subHeading": "Design, Developer, Instagram API, Behance API, Custom CSM",
       "image": "img/pixelhive.png",
       "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+      "tags": [
+        "React",
+        "Design",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "href": "http://ipaintcode.com/client/signalreturn/",
       "heading": "Signal Return Press",
-      "subHeading": "Responsive Web Design, Front-End Developer",
+      "subHeading": "Responsive Web Design, UI Developer, UI Designer",
       "image": "img/signalreturn.jpg",
       "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+      "tags": [
+        "React",
+        "Design",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "href": "http://ipaintcode.github.io/2014fiesta_rwd_proto/",
       "heading": "Ford Fiesta RWD Prototype",
-      "subHeading": "Color Picker, Prototype, Front-End Developer",
+      "subHeading": "Color Picker, Prototype, UI Developer, UI Designer",
       "image": "img/fiesta.jpg",
       "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+      "tags": [
+        "React",
+        "Design",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "href": "http://revolution.ipaintcode.com/nameplate.php",
       "heading": "Mustang Prototype",
-      "subHeading": "Responsive Web Design, Prototype, Front-End Developer",
+      "subHeading": "Responsive Web Design, Prototype, UI Developer, UI Designer",
       "image": "img/rwdmustang.jpg",
       "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+      "tags": [
+        "React",
+        "Design",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "href": "http://www.codeplusdesign.com/projectsuperduty/",
@@ -58,15 +135,25 @@
       "subHeading": "Super Duty, Responsive Web Design, Prototype",
       "image": "img/f150.jpg",
       "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+      "tags": [
+        "React",
+        "Design",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "href": "http://demon.ipaintcode.com/",
       "heading": "DODGE DEMON",
-      "subHeading": "Front-End Developer, Interaction, Animation",
+      "subHeading": "UI Developer, UI Designer, Interaction, Animation",
       "image": "img/demon.jpg",
       "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+      "tags": [
+        "React",
+        "Design",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "href": "http://microbrew.ipaintcode.com/",
@@ -74,7 +161,12 @@
       "subHeading": "Micro M** Framework, Open Source",
       "image": "img/microbrew.jpg",
       "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+      "tags": [
+        "React",
+        "Design",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "href": "http://dev.ipaintcode.com/waterfallnav/",
@@ -82,7 +174,12 @@
       "subHeading": "Animation, Interaction, Prototype",
       "image": "img/waterfallnav.jpg",
       "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+      "tags": [
+        "React",
+        "Design",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "href": "http://ipaintcode.com/client/smz",
@@ -90,15 +187,25 @@
       "subHeading": "SVG, Animation, Interaction",
       "image": "img/mcdc.png",
       "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+      "tags": [
+        "React",
+        "Design",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "href": "http://teamdetroit.ipaintcode.com/",
       "heading": "Team Detroit",
-      "subHeading": "Front-End Developer, Animation, Interaction, Custom Carousel jQuery Plugin",
+      "subHeading": "UI Developer, UI Designer, Animation, Interaction, Custom Carousel jQuery Plugin",
       "image": "img/teamdetroit.jpg",
       "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+      "tags": [
+        "React",
+        "Design",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "href": "https://dribbble.com/shots/3304071-The-Hydro-Store",
@@ -106,7 +213,12 @@
       "subHeading": "Branding, Iconography, UI Design",
       "image": "img/the-hydro-store-icon.png",
       "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+      "tags": [
+        "React",
+        "Design",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "href": "https://dribbble.com/shots/3304079-Alternative-VS-Code-macOS-Icon",
@@ -114,63 +226,103 @@
       "subHeading": "Iconography, UI Design, macOS Icon",
       "image": "img/vscode.png",
       "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+      "tags": [
+        "React",
+        "Design",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "href": "http://dev.ipaintcode.com/process/",
       "heading": "P.O.Vision Process",
-      "subHeading": "Front-End Developer, Animation, Interaction, Prototype",
+      "subHeading": "UI Developer, UI Designer, Animation, Interaction, Prototype",
       "image": "img/process.jpg",
       "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+      "tags": [
+        "React",
+        "Design",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "href": "http://ipaintcode.com/client/ch3mical/",
       "heading": "Ch3mical",
-      "subHeading": "Front-End Developer, Animation, Interaction",
+      "subHeading": "UI Developer, Animation, Interaction",
       "image": "img/ch3mical.jpg",
       "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+      "tags": [
+        "React",
+        "Design",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "href": "ttp://ipaintcode.com/client/dbb/",
       "heading": "Brand Story",
-      "subHeading": "Front-End Developer, Interaction, Animation, Prototype",
+      "subHeading": "UI Developer, UI Designer, Interaction, Animation, Prototype",
       "image": "img/brandstory.jpg",
       "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+      "tags": [
+        "React",
+        "Design",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "href": "http://ipaintcode.com/client/lovedetroit/",
       "heading": "Love, Detroit 2011",
-      "subHeading": "Front-End Developer, Interaction, Animation",
+      "subHeading": "UI Developer, UI Designer, Interaction, Animation",
       "image": "img/lovedetroit_2.jpg",
       "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+      "tags": [
+        "React",
+        "Design",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "href": "http://ipaintcode.com/client/lovedetroit-2010/",
       "heading": "Love, Detroit 2010",
-      "subHeading": "Front-End Developer, Interaction, Animation",
+      "subHeading": "UI Developer, UI Designer, Interaction, Animation",
       "image": "img/loverdetroit_1.jpg",
       "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+      "tags": [
+        "React",
+        "Design",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "href": "http://ipaintcode.com/client/ff2/",
       "heading": "Ford Accordian Nav",
-      "subHeading": "Front-End Developer, Interaction, Animation, Prototype",
+      "subHeading": "UI Developer, UI Designer, Interaction, Animation, Prototype",
       "image": "img/accordian.jpg",
       "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+      "tags": [
+        "React",
+        "Design",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "href": "http://dev.ipaintcode.com/rbiconfdet/",
       "heading": "Revitalization & Business Initiative",
-      "subHeading": "HTML, CSS, Front-End Developer, Animation, Interaction, SEO",
+      "subHeading": "HTML, CSS, UI Developer, UI Designer, Animation, Interaction, SEO",
       "image": "img/rb.jpg",
       "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+      "tags": [
+        "React",
+        "Design",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "href": "http://ipaintcode.com/client/fontface/",
@@ -178,63 +330,103 @@
       "subHeading": "Font, Technical Doc",
       "image": "img/font.jpg",
       "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+      "tags": [
+        "React",
+        "Design",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "href": "http://dev.ipaintcode.com/2013mustang/",
       "heading": "Mustang Customizer Interim Page",
-      "subHeading": "Front-End Developer, Interaction, Animation",
+      "subHeading": "UI Developer, UI Designer, Interaction, Animation",
       "image": "img/awards.jpg",
       "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+      "tags": [
+        "React",
+        "Design",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "href": "ttp://dev.ipaintcode.com/mpg/",
       "heading": "MPG Calculator Widget",
-      "subHeading": "Front-End Developer, Interaction, Animation, Prototype",
+      "subHeading": "UI Developer, UI Designer, Interaction, Animation, Prototype",
       "image": "img/mpg.jpg",
       "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+      "tags": [
+        "React",
+        "Design",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "href": "http://ipaintcode.com/cobra/",
       "heading": "Ford Gallery Prototype Carousel",
-      "subHeading": "Front-End Developer, Interaction, Animation, Prototype",
+      "subHeading": "UI Developer, UI Designer, Interaction, Animation, Prototype",
       "image": "img/carousel.jpg",
       "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+      "tags": [
+        "React",
+        "Design",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "href": "http://ipaintcode.com/client/f150Percent",
       "heading": "Ford F150 Dynamic JS % Marquee",
-      "subHeading": "F150, Front-End Developer, Interaction, Animation, Prototype",
+      "subHeading": "F150, UI Developer, UI Designer, Interaction, Animation, Prototype",
       "image": "img/f150-percentage.png",
       "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+      "tags": [
+        "React",
+        "Design",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "href": "http://dev.ipaintcode.com/stuartoneil/",
       "heading": "Stuart Oneil Portfolio",
-      "subHeading": "Front-End Developer, Interaction, Animation, Prototype",
+      "subHeading": "UI Developer, UI Designer, Interaction, Animation, Prototype",
       "image": "img/stu.jpg",
       "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+      "tags": [
+        "React",
+        "Design",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "href": "http://ipaintcode.com/client/dundeegolfclub/",
       "heading": "Dundee Golf Header",
-      "subHeading": "Front-End Developer, Interaction, Animation, Prototype",
+      "subHeading": "UI Developer, UI Designer, Interaction, Animation, Prototype",
       "image": "img/golf.jpg",
       "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+      "tags": [
+        "React",
+        "Design",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "href": "http://ipaintcode.com/client/mercedeshouse/",
       "heading": "Mercedes House NY",
-      "subHeading": "UI Design, Front-End Developer",
+      "subHeading": "UI Design, UI Developer, UI Designer",
       "image": "img/mh.jpg",
       "role": "User Interface Developer",
-      "tags": ["React", "UX", "UI", "CSS", "JavaScript"]
+      "tags": [
+        "React",
+        "Design",
+        "CSS",
+        "JavaScript"
+      ]
     }
   ]
 }

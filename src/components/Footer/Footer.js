@@ -1,11 +1,16 @@
-import React from 'react'
+import React from "react"
 
-const Footer = () => (
-  <footer className="cf">
-    <img src="img/ipaintcode-reverse.svg" alt="iPAINTCODE" />
-    <span>2020 © iPAINTCODE, LLC</span>
-    <span className="version">v0.5.0-beta</span>
-  </footer>
-)
+const jsonVersion = require('../../../package.json');
+
+const Footer = () => {
+
+  return (
+    <footer className="cf">
+      <img src="img/ipaintcode-reverse.svg" alt="iPAINTCODE" />
+      <span>2023 © iPAINTCODE, LLC</span>
+      <span className="version">v{jsonVersion.version}</span>
+    </footer>
+  )
+}
 
 export default Footer
