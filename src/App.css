@@ -53,7 +53,7 @@ blockquote {
   padding-bottom: 1em;
   text-align: center;
   /* font-style: italic; */
-  font-size: .98em;
+  font-size: 1.3em;
   font-family: 'Teko', sans-serif;
 }
 
@@ -107,13 +107,23 @@ blockquote {
 }
 
 .role {
-  margin-top: 0;
+  margin-top: -20px;
   margin-bottom: 0;
   padding-bottom: .5em;
   font-weight: 300;
   opacity: .8;
   font-size: 1.5em;
   letter-spacing: .5px;
+}
+
+.h3.role {
+  margin-top: -10px;
+  font-size: 2em;
+  padding-bottom: 0em;
+}
+
+.me .h3.grid-title {
+  margin-top: 0px;
 }
 
 .social {
@@ -148,7 +158,7 @@ blockquote {
 .social li a:hover::before {
   content: "";
   position: absolute;
-  top: -12px;
+  top: -14px;
   left: 50%;
   padding: .35em;
   background-color: white;
@@ -161,18 +171,18 @@ blockquote {
 
 .social li a:hover::after {
   content: attr(data-social);
-  top: -3.2em;
+  top: -48px;
   left: 50%;
   border-radius: .3em;
   font-size: 1em;
   background-color: white;
   position: absolute;
   border: 1px solid rgba(94, 98, 120, .5);
-  padding: .55em .8em;
+  padding: .60em .8em .4em .8em;
   box-shadow: 0 4px 1px rgba(94, 98, 120, 0.3);
   z-index: -1;
   font-weight: 700;
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   letter-spacing: .05em;
   transform: translateX(-50%);
   text-transform: uppercase;
